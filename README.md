@@ -9,4 +9,4 @@ Load datas and dreresentationata
 6. torch.utils.data.Dataset
 7. torch.utils.data.Dataloader - allows to iterate over the input data
 8. torchvision.transforms
-10. torchmetrics
+ torchmetric
