@@ -1,5 +1,5 @@
 # AI-classification-model 
-# Model building essentials
+Model building essentials
 1. torch.nn - contains all of building for computational graph(nn is a considered coputational graph)
 2. torch.nn.Parameter - defines parameters of the model try and lern
 3. torch.nn.Module - The base class for all nn modules (requires overwrite forward())
